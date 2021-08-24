@@ -1,2 +1,2 @@
 # itub
-LTSM usando os últimos 60 dias de histórico 
+Prevendo o preço de fechamento da ação do itaú usando LTSM os últimos 60 dias de histórico 
